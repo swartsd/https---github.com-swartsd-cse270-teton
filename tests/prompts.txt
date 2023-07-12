@@ -1,0 +1,3 @@
+Create an integration test that calls the endpoint http://127.0.0.1:8000/users/?username=admin&password=qwerty
+
+Create an integration test that calls the endpoint http://127.0.0.1:8000/users/?username=admin&password=admin
